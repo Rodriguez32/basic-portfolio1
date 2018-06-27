@@ -133,6 +133,26 @@ h1 {
     text-align: center;
 
 }
+.portfolio__preview.trivia {
+    background-image: linear-gradient( rgba(0,0,0,.4),  rgba(0,0,0,.4)), url(../images/crystal-collector.png);
+    
+}
+
+.portfolio__preview.games {
+    background-image: linear-gradient(  rgba(0,0,0,.4),  rgba(0,0,0,.4)), url(../images/psychic-game.png);
+}
+
+.portfolio__preview.graphic {
+    background-image: linear-gradient( rgba(0,0,0,.4),  rgba(0,0,0,.4)), url(../images/kiddos.jpg);
+}
+
+.portfolio__preview.artwork {
+    background-image: linear-gradient(  rgba(0,0,0,.4),  rgba(0,0,0,.4)), url(../images/mother.jpg);
+}
+
+.portfolio__preview.photography{
+    background-image: linear-gradient(  rgba(0,0,0,.4),  rgba(0,0,0,.4)), url(../images/fountain.jpg);
+}
 
 
 
