@@ -133,28 +133,43 @@ h1 {
     text-align: center;
 
 }
-.portfolio__preview.trivia {
-    background-image: linear-gradient( rgba(0,0,0,.4),  rgba(0,0,0,.4)), url(../images/crystal-collector.png);
+.portfolio__preview.cg {
+    background-image: linear-gradient( rgba(0,0,0,.4),  rgba(0,0,0,.4)), url(../images/crystal.PNG);
     
 }
 
-.portfolio__preview.games {
-    background-image: linear-gradient(  rgba(0,0,0,.4),  rgba(0,0,0,.4)), url(../images/psychic-game.png);
+.portfolio__preview.ta {
+    background-image: linear-gradient(  rgba(0,0,0,.4),  rgba(0,0,0,.4)), url(../images/train.PNG);
 }
 
-.portfolio__preview.graphic {
-    background-image: linear-gradient( rgba(0,0,0,.4),  rgba(0,0,0,.4)), url(../images/kiddos.jpg);
+.portfolio__preview.fa {
+    background-image: linear-gradient( rgba(0,0,0,.4),  rgba(0,0,0,.4)), url(../images/Takein.PNG);
 }
 
-.portfolio__preview.artwork {
-    background-image: linear-gradient(  rgba(0,0,0,.4),  rgba(0,0,0,.4)), url(../images/mother.jpg);
-}
-
-.portfolio__preview.photography{
-    background-image: linear-gradient(  rgba(0,0,0,.4),  rgba(0,0,0,.4)), url(../images/fountain.jpg);
+.portfolio__preview.p {
+    background-image: linear-gradient( rgba(0,0,0,.4),  rgba(0,0,0,.4)), url(../images/port.PNG);
 }
 
 
+.portfolio__link {
+    width: 282px;
+    height: 58px;
+    line-height: 58px;
+    margin-top: 138px;
+    background-color: #4aaaa5;
+    display: block;
+    font-size: 17px;
+    color: white;
+}
+
+a.portfolio__link:visited {
+    color: white !important;
+}
+
+a.portfolio__link:hover {
+    color: white !important;
+    background-color: #3d8e8a;
+}
 
 /*     Contact      */
 
