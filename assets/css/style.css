@@ -150,6 +150,10 @@ h1 {
     background-image: linear-gradient( rgba(0,0,0,.4),  rgba(0,0,0,.4)), url(../images/prof.PNG);
 }
 
+.portfolio__preview.n {
+    background-image: linear-gradient( rgba(0,0,0,.4),  rgba(0,0,0,.4)), url(../images/node-liri.png);
+}
+
 
 .portfolio__link {
     width: 282px;
