@@ -158,6 +158,9 @@ h1 {
     background-image: linear-gradient( rgba(0,0,0,.4),  rgba(0,0,0,.4)), url(../images/Capture.PNG);
 }
 
+.portfolio__preview.n {
+    background-image: linear-gradient( rgba(0,0,0,.4),  rgba(0,0,0,.4)), url(../images/friendfinder1.png);
+}
 
 .portfolio__link {
     width: 282px;
