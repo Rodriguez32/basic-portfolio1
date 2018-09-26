@@ -150,19 +150,19 @@ h1 {
     background-image: linear-gradient( rgba(0,0,0,.4),  rgba(0,0,0,.4)), url(../images/prof.PNG);
 }
 
-.portfolio__preview.n {
+.portfolio__preview.la {
     background-image: linear-gradient( rgba(0,0,0,.4),  rgba(0,0,0,.4)), url(../images/node-liri.png);
 }
 
-.portfolio__preview.n {
+.portfolio__preview.b {
     background-image: linear-gradient( rgba(0,0,0,.4),  rgba(0,0,0,.4)), url(../images/Capture.PNG);
 }
 
-.portfolio__preview.n {
+.portfolio__preview.ff {
     background-image: linear-gradient( rgba(0,0,0,.4),  rgba(0,0,0,.4)), url(../images/friendfinder1.png);
 }
 
-.portfolio__preview.n {
+.portfolio__preview.eb {
     background-image: linear-gradient( rgba(0,0,0,.4),  rgba(0,0,0,.4)), url(../images/eatdaburger.PNG);
 }
 
